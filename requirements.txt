@@ -1,0 +1,44 @@
+# Crypto Trading Simulator - Requirements
+
+## Frontend Requirements
+# Node.js v18+ required
+
+# Next.js Framework
+next==15.2.4
+
+# React and React DOM
+react==19.0.0
+react-dom==19.0.0
+
+# WebSocket Communication
+@stomp/stompjs==7.1.1
+sockjs-client==1.6.1
+
+# Development Tools
+typescript==5.0.0+
+eslint==9.0.0+
+tailwindcss==4.0.0+
+
+## Backend Requirements
+# Java 21 required
+
+# Spring Boot Core
+spring-boot-starter-web==3.2.4
+spring-boot-starter-data-jdbc==3.2.4
+spring-boot-devtools==3.2.4
+
+# Database
+mysql-connector-j==8.0.0+
+
+# WebSockets
+spring-boot-starter-websocket==3.2.4
+java-websocket==1.5.3
+
+# JSON Processing
+jackson-databind==2.15.0+
+
+# Code Generation and Utilities
+lombok==1.18.30+
+
+# Build Tools
+maven==3.9.9 
